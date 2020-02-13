@@ -1,0 +1,2 @@
+eno,ename,deptno
+|eno               |ename             |deptno            |
